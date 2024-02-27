@@ -14,7 +14,7 @@ function About() {
           <Col md={7} className="order-2 order-md-1">
             <div id="title">
               Hola, Soy
-              <br /> Leonardo Zamorano
+              <br /> Leonel Sanagua
             </div>
             <div id="textLoop">
               Y soy{" "}
@@ -33,18 +33,15 @@ function About() {
               </span>
             </div>
             <div id="subTitle">
-              Tambien se me conoce como ZetaDev, soy una persona altamente
-              motivada y adaptable que se enfrenta con entusiasmo a cualquier de
-              desafíos. <br />
-              Mi constante deseo de aprender y mi habilidad para trabajar de
-              manera colaborativa me caracterizan.
-              <br />
-              Con una profunda pasión por las tecnologías y el desarrollo web,
-              me destaco por mi creatividad y dedicación. <br />
-              Poseo grandes ideas y una firme compromiso para ofrecer resultados
-              de calidad. <br />
-              Estoy emocionado por contribuir al mundo del desarrollo y seguir
-              creciendo en este apasionante campo.
+              ¡Bienvenido/a a mi mundo digital! Soy un apasionado del desarrollo
+              web y las tecnologías digitales. Me caracterizo por mi motivación
+              y adaptabilidad ante cualquier desafío, siempre buscando aprender
+              y trabajar de manera colaborativa. Mi creatividad y dedicación se
+              reflejan en cada proyecto que emprendo. Con grandes ideas y un
+              compromiso firme con la calidad, estoy emocionado/a por seguir
+              creciendo y contribuyendo al apasionante mundo del desarrollo.
+              ¡Gracias por visitar mi espacio! ¡Acompáñame en este viaje hacia
+              nuevas fronteras del desarrollo tecnológico!
             </div>
             <div id="SocialMediaIcons" className="mb-5">
               <a
