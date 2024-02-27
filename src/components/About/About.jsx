@@ -33,8 +33,8 @@ function About() {
               </span>
             </div>
             <div id="subTitle">
-              Tambien se me conoce como ZetaDev, soy una persona altamente motivada y
-              adaptable que se enfrenta con entusiasmo a cualquier de
+              Tambien se me conoce como ZetaDev, soy una persona altamente
+              motivada y adaptable que se enfrenta con entusiasmo a cualquier de
               desafíos. <br />
               Mi constante deseo de aprender y mi habilidad para trabajar de
               manera colaborativa me caracterizan.
@@ -71,7 +71,7 @@ function About() {
             className="d-flex justify-content-md-end order-1 order-md-2 mt-md-0 mt-3"
           >
             <div id="heroContainer">
-              <img src="./profile.jpg" alt="hero image" id="img" />
+              <img src="./Profile.jpeg" alt="hero image" id="img" />
             </div>
           </Col>
         </Row>

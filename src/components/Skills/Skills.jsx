@@ -14,7 +14,7 @@ const skillsData = [
   { image: "mongodb.jpg", name: "MongoDB" },
   { image: "mysql.png", name: "MySQL" },
   { image: "postman.png", name: "Postman" },
-
+  { image: "genexus.png", name: "Genexus" },
 ];
 
 function Skills() {
@@ -27,7 +27,11 @@ function Skills() {
             <Col key={index} className="d-flex justify-content-center">
               <Card className="skill-card">
                 <Card.Body>
-                  <img src={skill.image} alt={skill.name} className="skill-image" />
+                  <img
+                    src={skill.image}
+                    alt={skill.name}
+                    className="skill-image"
+                  />
                   <Card.Title>{skill.name}</Card.Title>
                 </Card.Body>
               </Card>
